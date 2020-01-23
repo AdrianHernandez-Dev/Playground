@@ -1,6 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import RouletteGun from './RouletteGun';
+import Accordian from './Accordian';
 import './index.css';
 
-ReactDOM.render(<RouletteGun />, document.getElementById('root'));
+
+ReactDOM.render(<Accordian />, document.getElementById('root'));
